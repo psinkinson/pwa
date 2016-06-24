@@ -211,3 +211,18 @@ html, body {
 .mdl-demo .mdl-menu__container {
   z-index: 99;
 }
+
+
+
+/* PS - my overides */
+
+
+.mdl-layout__header {
+  color: #fff;
+}
+.mdl-layout.is-upgraded .mdl-layout__tab {
+    color: #ccc;
+}
+.mdl-layout.is-upgraded .mdl-layout__tab.is-active {
+    color: #fff;
+}
